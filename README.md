@@ -15,27 +15,27 @@ Identify the key drivers of energy demand
 
 Address common real-world modeling challenges:
 
-non-linearity
+-non-linearity
 
-multicollinearity
+-multicollinearity
 
-seasonality and temporal effects
+-seasonality and temporal effects
 
-Improve predictive performance through feature engineering
+-Improve predictive performance through feature engineering
 
-Ensure statistical validity and interpretability of the final models
+-Ensure statistical validity and interpretability of the final models
 
 # Data Overview
 
 The dataset consists of daily electricity consumption data for Mexico City, combined with:
 
-meteorological variables (temperature, radiation, humidity)
+-meteorological variables (temperature, radiation, humidity)
 
-calendar variables (day of week, holidays)
+-calendar variables (day of week, holidays)
 
-contextual indicators (e.g. Covid period)
+-contextual indicators (e.g. Covid period)
 
-engineered seasonal components
+-engineered seasonal components
 
 # Methodological Approach
 
@@ -63,7 +63,7 @@ Careful variable selection to reduce redundancy
 
 Re-estimation and validation of improved models
 
-➡️ Result: significantly improved stability and predictive accuracy.
+=> Result: significantly improved stability and predictive accuracy.
 
 # 3.Comparative Analysis & Validation
 
@@ -73,7 +73,7 @@ Performance evaluation using statistical metrics and residual diagnostics
 
 Assessment of model coherence and generalization capability
 
-➡️ The final model achieves a strong balance between performance, robustness, and interpretability.
+=> The final model achieves a strong balance between performance, robustness, and interpretability.
 
 # Key Insights
 
@@ -91,13 +91,13 @@ Language: R
 
 Techniques:
 
-Multiple linear regression
+-Multiple linear regression
 
-Feature engineering
+-Feature engineering
 
-Residual and diagnostic analysis
+-Residual and diagnostic analysis
 
-Multicollinearity assessment
+-Multicollinearity assessment
 
 Focus: interpretable and statistically sound modeling
 
@@ -121,10 +121,10 @@ Kelvin Wong
 
 This project demonstrates the ability to:
 
-approach a real forecasting problem with methodological discipline
+-approach a real forecasting problem with methodological discipline
 
-translate data issues into appropriate statistical solutions
+-translate data issues into appropriate statistical solutions
 
-produce interpretable models suitable for decision-making
+-produce interpretable models suitable for decision-making
 
-document results clearly for both technical and non-technical audiences
+-document results clearly for both technical and non-technical audiences
