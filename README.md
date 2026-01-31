@@ -7,7 +7,7 @@ A strong emphasis is placed on model robustness, interpretability, and methodolo
 All analyses and results are fully documented in the accompanying PDF reports.
 The R code is included and commented directly inside these reports.
 
-🎯 Project Objectives
+# Project Objectives
 
 Model and predict daily electricity consumption
 
@@ -25,7 +25,7 @@ Improve predictive performance through feature engineering
 
 Ensure statistical validity and interpretability of the final models
 
-📊 Data Overview
+# Data Overview
 
 The dataset consists of daily electricity consumption data for Mexico City, combined with:
 
@@ -37,11 +37,11 @@ contextual indicators (e.g. Covid period)
 
 engineered seasonal components
 
-🧠 Methodological Approach
+# Methodological Approach
 
 The project follows a progressive and structured modeling strategy:
 
-1️⃣ Baseline Linear Regression
+# 1.Baseline Linear Regression
 
 Construction of an initial multiple linear regression model
 
@@ -53,7 +53,7 @@ inadequate handling of seasonal effects
 
 non-linear relationships between temperature and demand
 
-2️⃣ Feature Engineering & Model Refinement
+# 2.Feature Engineering & Model Refinement
 
 Introduction of cyclical seasonal features (sinusoidal encoding)
 
@@ -65,7 +65,7 @@ Re-estimation and validation of improved models
 
 ➡️ Result: significantly improved stability and predictive accuracy.
 
-3️⃣ Comparative Analysis & Validation
+# 3.Comparative Analysis & Validation
 
 Comparison of alternative modeling strategies
 
@@ -75,7 +75,7 @@ Assessment of model coherence and generalization capability
 
 ➡️ The final model achieves a strong balance between performance, robustness, and interpretability.
 
-📈 Key Insights
+# Key Insights
 
 Temperature is a dominant driver of electricity demand, with a clear non-linear effect
 
@@ -85,7 +85,7 @@ Calendar effects materially improve predictive performance
 
 Well-engineered linear models can outperform overly complex approaches when properly specified
 
-🛠️ Tools & Techniques
+# Tools & Techniques
 
 Language: R
 
@@ -101,7 +101,7 @@ Multicollinearity assessment
 
 Focus: interpretable and statistically sound modeling
 
-📄 Repository Content
+# Repository Content
 
 TP1_MRR_Schneider_Wong.pdf – Baseline modeling and diagnostic analysis
 
@@ -111,13 +111,13 @@ TP3_MRR.pdf – Comparative analysis and validation
 
 All R scripts are embedded and commented directly within the reports.
 
-👤 Authors
+# Authors
 
 Alexis Schneider
 
 Kelvin Wong
 
-💼 Why this project matters
+# Why this project matters
 
 This project demonstrates the ability to:
 
