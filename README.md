@@ -135,8 +135,8 @@ All R scripts are embedded and commented directly within the reports.
 
 | Name | Links |
 |------|-------|
-| Alexis Schneider | [LinkedIn](https://www.linkedin.com/in/alexis-schneider-a91079325/) · [GitHub](https://github.com/Alexis-Schneider) |
-| Kelvin Wong | |
+| Alexis Schneider | [LinkedIn](https://www.linkedin.com/in/alexis-schneider-a91079325/) | [GitHub](https://github.com/Alexis-Schneider) |
+| Kelvin Wong |  [GitHub](https://github.com/KelvinWong94)
 
 ---
 
